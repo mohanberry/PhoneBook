@@ -16,6 +16,7 @@ This is a PhoneBook app built for Transferwise in Angular 2+
 
 # Please follow the below steps to run my application - 
 1> Download the application to your local server environment
-2> This app contains the node_modules, so after download try to ( ng-serve ) the app from terminal
+2> This app will only run when node_modules is precent, so after download try to please download the node_modules from the Drive link that I will share.
+3> Once the node_modules are installed just ( ng-serve ) the app from terminal
   - If it gives error, just install node modules globally ( npm install -g @angular/cli ) and then again ( ng-serve )
   
