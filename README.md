@@ -8,6 +8,10 @@ This is a PhoneBook app built for Transferwise in Angular 2+
 4> CSS/CSS3
 5> HTML/HTML5
 
+# Code View
+1> All the code that I have written is in this directory -> 
+  phonebook\src\app
+
 # Project Implementation
 1> This PhoneBook app has a search filter by which user can search individual names.
 2> You click on individual item to see the Modal popup show more information
